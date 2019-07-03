@@ -23,7 +23,7 @@
 
                 <div class="contact-map full-width">
 
-                    <a href="#"><img src="assets/images/map.jpg" alt="map"></a>
+                    <a href="#"><img src="frontend/assets/images/map.jpg" alt="map"></a>
 
                 </div>
 

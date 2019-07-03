@@ -20,7 +20,7 @@
 
             <div class="banner-paralax">
 
-                <a href="#"><img src="assets/images/banner-paralax.jpg" alt="banner-paralax"></a>
+                <a href="#"><img src="frontend/assets/images/banner-paralax.jpg" alt="banner-paralax"></a>
 
             </div>
 

@@ -44,38 +44,38 @@
 
                         <li class="menu-item-has-children">
                             <a href="#" class="dropdown-toggle">
-                                <img src="assets/images/general/l1.jpg" alt="flag">English<i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <img src="frontend/assets/images/general/l1.jpg" alt="flag">English<i class="fa fa-angle-down" aria-hidden="true"></i>
                             </a>
 
                             <ul class="submenu parent-megamenu">
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l1.jpg" alt="flag">English</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l1.jpg" alt="flag">English</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l2.jpg" alt="flag">Hungary</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l2.jpg" alt="flag">Hungary</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l3.jpg" alt="flag">German</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l3.jpg" alt="flag">German</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l4.jpg" alt="flag">French</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l4.jpg" alt="flag">French</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l5.jpg" alt="flag">Canada</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l5.jpg" alt="flag">Canada</a>
 
                                 </li>
 
@@ -141,7 +141,7 @@
 
                             <strong class="logo">
 
-                                <a href="/"><img src="assets/images/logo.jpg" alt="logo"></a>
+                                <a href="/"><img src="frontend/assets/images/logo.jpg" alt="logo"></a>
 
                             </strong><!-- logo -->
 
@@ -257,7 +257,7 @@
 
                                                             <div class="thumb-inner">
 
-                                                                <a href=""><img src="assets/images/home1/c1.jpg" alt="c1"></a>
+                                                                <a href=""><img src="frontend/assets/images/home1/c1.jpg" alt="c1"></a>
 
                                                             </div>
 
@@ -285,7 +285,7 @@
 
                                                             <div class="thumb-inner">
 
-                                                                <a href="#"><img src="assets/images/home1/c2.jpg" alt="c2"></a>
+                                                                <a href="#"><img src="frontend/assets/images/home1/c2.jpg" alt="c2"></a>
 
                                                             </div>
 
@@ -777,7 +777,7 @@
 
                 </div>
 
-            </div>
+            </div> <!-- header-menu-bar -->
 
         </header><!-- end HEADER -->
 
@@ -947,25 +947,25 @@
 
                                 <div class="content-ins">
 
-                                    <a href="#"><img src="assets/images/detail/ins1.jpg" alt="ins1"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins1.jpg" alt="ins1"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins2.jpg" alt="ins2"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins2.jpg" alt="ins2"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins3.jpg" alt="ins3"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins3.jpg" alt="ins3"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins4.jpg" alt="ins4"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins4.jpg" alt="ins4"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins5.jpg" alt="ins5"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins5.jpg" alt="ins5"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins6.jpg" alt="ins6"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins6.jpg" alt="ins6"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins7.jpg" alt="ins7"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins7.jpg" alt="ins7"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins8.jpg" alt="ins8"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins8.jpg" alt="ins8"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins9.jpg" alt="ins9"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins9.jpg" alt="ins9"></a>
 
-                                    <a href="#"><img src="assets/images/detail/ins10.jpg" alt="ins10"></a>
+                                    <a href="#"><img src="frontend/assets/images/detail/ins10.jpg" alt="ins10"></a>
 
                                 </div>
 
@@ -993,13 +993,13 @@
 
                     <div class="pay-men">
 
-                        <a href="#"><img src="assets/images/general/pay1.jpg" alt="pay1"></a>
+                        <a href="#"><img src="frontend/assets/images/general/pay1.jpg" alt="pay1"></a>
 
-                        <a href="#"><img src="assets/images/general/pay2.jpg" alt="pay2"></a>
+                        <a href="#"><img src="frontend/assets/images/general/pay2.jpg" alt="pay2"></a>
 
-                        <a href="#"><img src="assets/images/general/pay3.jpg" alt="pay3"></a>
+                        <a href="#"><img src="frontend/assets/images/general/pay3.jpg" alt="pay3"></a>
 
-                        <a href="#"><img src="assets/images/general/pay4.jpg" alt="pay4"></a>
+                        <a href="#"><img src="frontend/assets/images/general/pay4.jpg" alt="pay4"></a>
 
                     </div>
 

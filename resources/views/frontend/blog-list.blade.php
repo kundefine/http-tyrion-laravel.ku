@@ -30,7 +30,7 @@
 
                                 <div class="post-thumb">
 
-                                    <a href="#"><img src="assets/images/blog/post-image.jpg" alt="post-image"></a>
+                                    <a href="#"><img src="frontend/assets/images/blog/post-image.jpg" alt="post-image"></a>
 
                                     <span class="date">12<span>Dec</span></span>
 
@@ -64,7 +64,7 @@
 
                                 <div class="post-thumb">
 
-                                    <a href="#"><img src="assets/images/blog/post-image-2.jpg" alt="post-image-2"></a>
+                                    <a href="#"><img src="frontend/assets/images/blog/post-image-2.jpg" alt="post-image-2"></a>
 
                                     <span class="date">22<span>Dec</span></span>
 
@@ -98,7 +98,7 @@
 
                                 <div class="post-thumb">
 
-                                    <a href="#"><img src="assets/images/blog/post-image-3.jpg" alt="post-image-3"></a>
+                                    <a href="#"><img src="frontend/assets/images/blog/post-image-3.jpg" alt="post-image-3"></a>
 
                                     <span class="date">22<span>Dec</span></span>
 
@@ -132,7 +132,7 @@
 
                                 <div class="post-thumb">
 
-                                    <a href="#"><img src="assets/images/blog/post-image-4.jpg" alt="post-image-4"></a>
+                                    <a href="#"><img src="frontend/assets/images/blog/post-image-4.jpg" alt="post-image-4"></a>
 
                                     <span class="date">22<span>Dec</span></span>
 
@@ -259,7 +259,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p1.jpg" alt="p1"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p1.jpg" alt="p1"></a>
 
                                                     </div>
 
@@ -305,7 +305,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p2.jpg" alt="p2"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p2.jpg" alt="p2"></a>
 
                                                     </div>
 
@@ -351,7 +351,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p3.jpg" alt="p3"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p3.jpg" alt="p3"></a>
 
                                                     </div>
 
@@ -396,7 +396,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p4.jpg" alt="p4"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p4.jpg" alt="p4"></a>
 
                                                     </div>
 
@@ -447,7 +447,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p1.jpg" alt="p1"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p1.jpg" alt="p1"></a>
 
                                                     </div>
 
@@ -493,7 +493,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p2.jpg" alt="p2"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p2.jpg" alt="p2"></a>
 
                                                     </div>
 
@@ -539,7 +539,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p3.jpg" alt="p3"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p3.jpg" alt="p3"></a>
 
                                                     </div>
 
@@ -584,7 +584,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/blog/p4.jpg" alt="p4"></a>
+                                                        <a href="#"><img src="frontend/assets/images/blog/p4.jpg" alt="p4"></a>
 
                                                     </div>
 

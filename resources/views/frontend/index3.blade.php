@@ -76,38 +76,38 @@
 
                         <li class="menu-item-has-children">
                             <a href="#" class="dropdown-toggle">
-                                <img src="assets/images/general/l1.jpg" alt="flag">English<i class="fa fa-angle-down" aria-hidden="true"></i>
+                                <img src="frontend/assets/images/general/l1.jpg" alt="flag">English<i class="fa fa-angle-down" aria-hidden="true"></i>
                             </a>
 
                             <ul class="submenu parent-megamenu">
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l1.jpg" alt="flag">English</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l1.jpg" alt="flag">English</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l2.jpg" alt="flag">Hungary</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l2.jpg" alt="flag">Hungary</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l3.jpg" alt="flag">German</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l3.jpg" alt="flag">German</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l4.jpg" alt="flag">French</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l4.jpg" alt="flag">French</a>
 
                                 </li>
 
                                 <li class="switcher-option">
 
-                                    <a href="#" class="flag"><img src="assets/images/general/l5.jpg" alt="flag">Canada</a>
+                                    <a href="#" class="flag"><img src="frontend/assets/images/general/l5.jpg" alt="flag">Canada</a>
 
                                 </li>
 
@@ -173,7 +173,7 @@
 
                             <strong class="logo">
 
-                                <a href="#"><img src="assets/images/logo.jpg" alt="logo"></a>
+                                <a href="#"><img src="frontend/assets/images/logo.jpg" alt="logo"></a>
 
                             </strong><!-- logo -->
 
@@ -304,7 +304,7 @@
 
                                                             <div class="thumb-inner">
 
-                                                                <a href="#"><img src="assets/images/home1/c1.jpg" alt="c1"></a>
+                                                                <a href="#"><img src="frontend/assets/images/home1/c1.jpg" alt="c1"></a>
 
                                                             </div>
 
@@ -332,7 +332,7 @@
 
                                                             <div class="thumb-inner">
 
-                                                                <a href="#"><img src="assets/images/home1/c2.jpg" alt="c2"></a>
+                                                                <a href="#"><img src="frontend/assets/images/home1/c2.jpg" alt="c2"></a>
 
                                                             </div>
 
@@ -600,13 +600,13 @@
 
 	                <div class="promotion-banner banner-slide-2 style-4 hidden-sm hidden-xs">
 
-	                    <a href="#" class="banner-img"><img src="assets/images/home3/banner1.jpg" alt="banner1"></a>
+	                    <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner1.jpg" alt="banner1"></a>
 
 	                </div>
 
 	                <div class="promotion-banner banner-slide-2 style-4 hidden-sm hidden-xs">
 
-	                    <a href="#" class="banner-img"><img src="assets/images/home3/banner2.jpg" alt="banner2"></a>
+	                    <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner2.jpg" alt="banner2"></a>
 
 	                </div>
 
@@ -917,7 +917,7 @@
 
 	                            <div class="promotion-banner item-1 style-3">
 
-				                    <a href="#" class="banner-img"><img src="assets/images/home3/banner3.jpg" alt="banner3"></a>
+				                    <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner3.jpg" alt="banner3"></a>
 
 				                </div>
 
@@ -927,7 +927,7 @@
 
 	                            <div class="promotion-banner item-2 style-3">
 
-				                    <a href="#" class="banner-img"><img src="assets/images/home3/banner4.jpg" alt="banner4"></a>
+				                    <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner4.jpg" alt="banner4"></a>
 
 				                </div>
 
@@ -950,7 +950,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p1.jpg" alt="p1"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p1.jpg" alt="p1"></a>
 
                                                         </div>
 
@@ -996,7 +996,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p2.jpg" alt="p2"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p2.jpg" alt="p2"></a>
 
                                                         </div>
 
@@ -1042,7 +1042,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p3.jpg" alt="p3"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p3.jpg" alt="p3"></a>
 
                                                         </div>
 
@@ -1087,7 +1087,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p4.jpg" alt="p4"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p4.jpg" alt="p4"></a>
 
                                                         </div>
 
@@ -1138,7 +1138,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p1.jpg" alt="p1"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p1.jpg" alt="p1"></a>
 
                                                         </div>
 
@@ -1184,7 +1184,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p2.jpg" alt="p2"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p2.jpg" alt="p2"></a>
 
                                                         </div>
 
@@ -1230,7 +1230,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p3.jpg" alt="p3"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p3.jpg" alt="p3"></a>
 
                                                         </div>
 
@@ -1275,7 +1275,7 @@
 
                                                         <div class="thumb-inner">
 
-                                                            <a href="#"><img src="assets/images/blog/p4.jpg" alt="p4"></a>
+                                                            <a href="#"><img src="frontend/assets/images/blog/p4.jpg" alt="p4"></a>
 
                                                         </div>
 
@@ -1332,7 +1332,7 @@
 
 			                            <div class="post-thumb">
 
-			                                <a href="#"><img src="assets/images/home3/blog.jpg" alt="blog"></a>
+			                                <a href="#"><img src="frontend/assets/images/home3/blog.jpg" alt="blog"></a>
 
 			                            </div>
 
@@ -1358,7 +1358,7 @@
 
 			                            <div class="post-thumb">
 
-			                                <a href="#"><img src="assets/images/home3/blog1.jpg" alt="blog"></a>
+			                                <a href="#"><img src="frontend/assets/images/home3/blog1.jpg" alt="blog"></a>
 
 			                            </div>
 
@@ -1397,7 +1397,7 @@
 
 			                        <div class="block-top-categori-item">
 
-			                            <a href="#"><img src="assets/images/home3/h1.jpg" alt="h1"></a>
+			                            <a href="#"><img src="frontend/assets/images/home3/h1.jpg" alt="h1"></a>
 
 			                            <div class="block-top-categori-title">Accessories</div>
 
@@ -1405,7 +1405,7 @@
 
 			                        <div class="block-top-categori-item">
 
-			                            <a href="#"><img src="assets/images/home3/h2.jpg" alt="h2"></a>
+			                            <a href="#"><img src="frontend/assets/images/home3/h2.jpg" alt="h2"></a>
 
 			                            <div class="block-top-categori-title">Fashions Jacket</div>
 
@@ -1413,7 +1413,7 @@
 
 			                        <div class="block-top-categori-item">
 
-			                            <a href="#"><img src="assets/images/home3/h3.jpg" alt="h3"></a>
+			                            <a href="#"><img src="frontend/assets/images/home3/h3.jpg" alt="h3"></a>
 
 			                            <div class="block-top-categori-title">Audio & Theater Sport</div>
 
@@ -1421,7 +1421,7 @@
 
 			                        <div class="block-top-categori-item">
 
-			                            <a href="#"><img src="assets/images/home3/h4.jpg" alt="h4"></a>
+			                            <a href="#"><img src="frontend/assets/images/home3/h4.jpg" alt="h4"></a>
 
 			                            <div class="block-top-categori-title">Tablets</div>
 
@@ -1459,7 +1459,7 @@
 
 				                                <div class="thumb-inner">
 
-				                                    <a href="#"><img src="assets/images/home3/d1.jpg" alt="d1"></a>
+				                                    <a href="#"><img src="frontend/assets/images/home3/d1.jpg" alt="d1"></a>
 
 				                                </div>
 
@@ -1511,7 +1511,7 @@
 
 				                                <div class="thumb-inner">
 
-				                                    <a href="#"><img src="assets/images/home3/d2.jpg" alt="d2"></a>
+				                                    <a href="#"><img src="frontend/assets/images/home3/d2.jpg" alt="d2"></a>
 
 				                                </div>
 
@@ -1563,7 +1563,7 @@
 
 				                                <div class="thumb-inner">
 
-				                                    <a href="#"><img src="assets/images/home3/d2.jpg" alt="d2"></a>
+				                                    <a href="#"><img src="frontend/assets/images/home3/d2.jpg" alt="d2"></a>
 
 				                                </div>
 
@@ -1647,7 +1647,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f1.jpg" alt="f1"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f1.jpg" alt="f1"></a>
 
     			                                                    </div>
 
@@ -1707,7 +1707,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f5.jpg" alt="f5"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f5.jpg" alt="f5"></a>
 
     			                                                    </div>
 
@@ -1771,7 +1771,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f2.jpg" alt="f2"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f2.jpg" alt="f2"></a>
 
     			                                                    </div>
 
@@ -1836,7 +1836,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f6.jpg" alt="f6"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f6.jpg" alt="f6"></a>
 
     			                                                    </div>
 
@@ -1901,7 +1901,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f3.jpg" alt="f3"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f3.jpg" alt="f3"></a>
 
     			                                                    </div>
 
@@ -1963,7 +1963,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f7.jpg" alt="f7"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f7.jpg" alt="f7"></a>
 
     			                                                    </div>
 
@@ -2032,7 +2032,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f4.jpg" alt="f4"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f4.jpg" alt="f4"></a>
 
     			                                                    </div>
 
@@ -2081,7 +2081,7 @@
 
     			                                                    <div class="thumb-inner">
 
-    			                                                        <a href="#"><img src="assets/images/home3/f8.jpg" alt="f8"></a>
+    			                                                        <a href="#"><img src="frontend/assets/images/home3/f8.jpg" alt="f8"></a>
 
     			                                                    </div>
 
@@ -2136,7 +2136,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f1.jpg" alt="f1"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f1.jpg" alt="f1"></a>
 
                                                                     </div>
 
@@ -2196,7 +2196,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f5.jpg" alt="f5"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f5.jpg" alt="f5"></a>
 
                                                                     </div>
 
@@ -2260,7 +2260,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f2.jpg" alt="f2"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f2.jpg" alt="f2"></a>
 
                                                                     </div>
 
@@ -2325,7 +2325,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f6.jpg" alt="f6"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f6.jpg" alt="f6"></a>
 
                                                                     </div>
 
@@ -2390,7 +2390,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f3.jpg" alt="f3"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f3.jpg" alt="f3"></a>
 
                                                                     </div>
 
@@ -2452,7 +2452,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f7.jpg" alt="f7"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f7.jpg" alt="f7"></a>
 
                                                                     </div>
 
@@ -2521,7 +2521,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f4.jpg" alt="f4"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f4.jpg" alt="f4"></a>
 
                                                                     </div>
 
@@ -2570,7 +2570,7 @@
 
                                                                     <div class="thumb-inner">
 
-                                                                        <a href="#"><img src="assets/images/home3/f8.jpg" alt="f8"></a>
+                                                                        <a href="#"><img src="frontend/assets/images/home3/f8.jpg" alt="f8"></a>
 
                                                                     </div>
 
@@ -2629,7 +2629,7 @@
 
 			                            <div class="promotion-banner style-2">
 
-			                                <a href="#" class="banner-img"><img src="assets/images/home3/banner5.jpg" alt="banner5"></a>
+			                                <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner5.jpg" alt="banner5"></a>
 
 
 			                            </div>
@@ -2640,7 +2640,7 @@
 
 			                            <div class="promotion-banner style-2">
 
-			                                <a href="#" class="banner-img"><img src="assets/images/home3/banner6.jpg" alt="banner6"></a>
+			                                <a href="#" class="banner-img"><img src="frontend/assets/images/home3/banner6.jpg" alt="banner6"></a>
 
 			                            </div>
 
@@ -2664,7 +2664,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home3/b1.jpg" alt="b1"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home3/b1.jpg" alt="b1"></a>
 
                                                     </div>
 
@@ -2714,7 +2714,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home3/b3.jpg" alt="b3"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home3/b3.jpg" alt="b3"></a>
 
                                                     </div>
 
@@ -2766,7 +2766,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home3/b2.jpg" alt="b2"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home3/b2.jpg" alt="b2"></a>
 
                                                     </div>
 
@@ -2816,7 +2816,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home3/b4.jpg" alt="b4"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home3/b4.jpg" alt="b4"></a>
 
                                                     </div>
 
@@ -2878,17 +2878,17 @@
 
                         <div class="owl-carousel nav-style3" data-nav="true" data-autoplay="false" data-dots="false" data-loop="true" data-margin="20" data-responsive='{"0":{"items":2},"480":{"items":3},"600":{"items":4},"1000":{"items":5}}'>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
-                            <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand"></a>
+                            <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand"></a>
 
                         </div>
 
@@ -3131,13 +3131,13 @@
 
                         <div class="pay-men">
 
-                            <a href="#"><img src="assets/images/general/pay1.jpg" alt="pay1"></a>
+                            <a href="#"><img src="frontend/assets/images/general/pay1.jpg" alt="pay1"></a>
 
-                            <a href="#"><img src="assets/images/general/pay2.jpg" alt="pay2"></a>
+                            <a href="#"><img src="frontend/assets/images/general/pay2.jpg" alt="pay2"></a>
 
-                            <a href="#"><img src="assets/images/general/pay3.jpg" alt="pay3"></a>
+                            <a href="#"><img src="frontend/assets/images/general/pay3.jpg" alt="pay3"></a>
 
-                            <a href="#"><img src="assets/images/general/pay4.jpg" alt="pay4"></a>
+                            <a href="#"><img src="frontend/assets/images/general/pay4.jpg" alt="pay4"></a>
 
                         </div>
 
@@ -3165,23 +3165,23 @@
 
     <!-- jQuery -->    
 
-    <script type="text/javascript" src="assets/js/jquery-2.1.4.min.js"></script>
-    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
-    <script type="text/javascript" src="assets/js/wow.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.actual.min.js"></script>
-    <script type="text/javascript" src="assets/js/chosen.jquery.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.bxslider.min.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.elevateZoom.min.js"></script>
-    <script src="assets/js/fancybox/source/jquery.fancybox.pack.js"></script>
-    <script src="assets/js/fancybox/source/helpers/jquery.fancybox-media.js"></script>
-    <script src="assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
-    <script type="text/javascript" src="assets/js/function.js"></script>
-    <script type="text/javascript" src="assets/js/Modernizr.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.plugin.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.countdown.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/wow.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.actual.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/chosen.jquery.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.sticky.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.elevateZoom.min.js"></script>
+    <script src="frontend/assets/js/fancybox/source/jquery.fancybox.pack.js"></script>
+    <script src="frontend/assets/js/fancybox/source/helpers/jquery.fancybox-media.js"></script>
+    <script src="frontend/assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/function.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/Modernizr.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.plugin.js"></script>
+    <script type="text/javascript" src="frontend/assets/js/jquery.countdown.js"></script>
 
 </body>
 

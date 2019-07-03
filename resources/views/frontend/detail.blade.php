@@ -28,7 +28,7 @@
 
                             <div class="image-preview-container image-thick-box image_preview_container">
 
-                                <img id="img_zoom" data-zoom-image="assets/images/detail/thick-box-1.jpg" src="assets/images/detail/thick-box.jpg" alt="">
+                                <img id="img_zoom" data-zoom-image="assets/images/detail/thick-box-1.jpg" src="frontend/assets/images/detail/thick-box.jpg" alt="">
 
                                 <a href="#" class="btn-zoom open_qv"><i class="fa fa-search" aria-hidden="true"></i></a>
 
@@ -40,27 +40,27 @@
 
                                     <a href="#" data-image="assets/images/detail/thick-box-1.jpg" data-zoom-image="assets/images/detail/thick-box-1.jpg">
 
-                                        <img src="assets/images/detail/i1.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
+                                        <img src="frontend/assets/images/detail/i1.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
 
                                     </a>
                                     <a href="#" data-image="assets/images/detail/thick-box-1.jpg" data-zoom-image="assets/images/detail/thick-box-1.jpg">
 
-                                        <img src="assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
+                                        <img src="frontend/assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
 
                                     </a>
                                     <a href="#" data-image="assets/images/detail/thick-box-1.jpg" data-zoom-image="assets/images/detail/thick-box-1.jpg">
 
-                                        <img src="assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
+                                        <img src="frontend/assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
 
                                     </a>
                                     <a href="#" data-image="assets/images/detail/thick-box-1.jpg" data-zoom-image="assets/images/detail/thick-box-1.jpg">
 
-                                        <img src="assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
+                                        <img src="frontend/assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
 
                                     </a>
                                     <a href="#" data-image="assets/images/detail/thick-box-1.jpg" data-zoom-image="assets/images/detail/thick-box-1.jpg">
 
-                                        <img src="assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
+                                        <img src="frontend/assets/images/detail/i2.jpg" data-large-image="assets/images/detail/thick-box-1.jpg" alt="i1">
 
                                     </a>
 
@@ -110,10 +110,10 @@
 
                             <div class="group-btn-share">
 
-                                <a href="#"><img src="assets/images/detail/btn1.png" alt="btn1"></a>
-                                <a href="#"><img src="assets/images/detail/btn2.png" alt="btn1"></a>
-                                <a href="#"><img src="assets/images/detail/btn3.png" alt="btn1"></a>
-                                <a href="#"><img src="assets/images/detail/btn4.png" alt="btn1"></a>
+                                <a href="#"><img src="frontend/assets/images/detail/btn1.png" alt="btn1"></a>
+                                <a href="#"><img src="frontend/assets/images/detail/btn2.png" alt="btn1"></a>
+                                <a href="#"><img src="frontend/assets/images/detail/btn3.png" alt="btn1"></a>
+                                <a href="#"><img src="frontend/assets/images/detail/btn4.png" alt="btn1"></a>
 
                             </div>
 
@@ -325,7 +325,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r1.jpg" alt="r1"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r1.jpg" alt="r1"></a>
 
                                 </div>
 
@@ -387,7 +387,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r2.jpg" alt="r2"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r2.jpg" alt="r2"></a>
 
                                 </div>
 
@@ -447,7 +447,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r3.jpg" alt="r3"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r3.jpg" alt="r3"></a>
 
                                 </div>
 
@@ -505,7 +505,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r4.jpg" alt="r4"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r4.jpg" alt="r4"></a>
 
                                 </div>
 
@@ -547,7 +547,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r5.jpg" alt="r5"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r5.jpg" alt="r5"></a>
 
                                 </div>
 
@@ -609,7 +609,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r6.jpg" alt="r6"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r6.jpg" alt="r6"></a>
 
                                 </div>
 
@@ -653,12 +653,12 @@
             <div class="container">
                 <div class="section-brand style1">
                     <div class="owl-carousel nav-style3" data-nav="true" data-autoplay="false" data-dots="false" data-loop="true" data-margin="2" data-responsive='{"0":{"items":1},"480":{"items":2},"600":{"items":4},"1000":{"items":6}}'>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
                     </div>
                 </div>
             </div>

@@ -74,13 +74,13 @@
 
                 <div class="promotion-banner banner-slide style-4 hidden-sm hidden-xs">
 
-                    <a href="#" class="banner-img"><img src="assets/images/home1/banner1.jpg" alt="banner1"></a>
+                    <a href="#" class="banner-img"><img src="frontend/assets/images/home1/banner1.jpg" alt="banner1"></a>
 
                 </div>
 
                 <div class="promotion-banner banner-slide style-4 hidden-sm hidden-xs">
 
-                    <a href="#" class="banner-img"><img src="assets/images/home1/banner2-1.jpg" alt="banner2"></a>
+                    <a href="#" class="banner-img"><img src="frontend/assets/images/home1/banner2-1.jpg" alt="banner2"></a>
 
                     <a href="#" class="btn-shop-now">Shop now</a>
 
@@ -100,7 +100,7 @@
 
                     <div class="block-top-categori-item">
 
-                        <a href="#"><img src="assets/images/home1/c1.jpg" alt="c1"></a>
+                        <a href="#"><img src="frontend/assets/images/home1/c1.jpg" alt="c1"></a>
 
                         <div class="block-top-categori-title">Pocket Drone</div>
 
@@ -108,7 +108,7 @@
 
                     <div class="block-top-categori-item">
 
-                        <a href="#"><img src="assets/images/home1/c2.jpg" alt="c2"></a>
+                        <a href="#"><img src="frontend/assets/images/home1/c2.jpg" alt="c2"></a>
 
                         <div class="block-top-categori-title">Head Phone</div>
 
@@ -116,7 +116,7 @@
 
                     <div class="block-top-categori-item">
 
-                        <a href="#"><img src="assets/images/home1/c3.jpg" alt="c3"></a>
+                        <a href="#"><img src="frontend/assets/images/home1/c3.jpg" alt="c3"></a>
 
                         <div class="block-top-categori-title">Smartwatch</div>
 
@@ -124,7 +124,7 @@
 
                     <div class="block-top-categori-item">
 
-                        <a href="#"><img src="assets/images/home1/c4.jpg" alt="c4"></a>
+                        <a href="#"><img src="frontend/assets/images/home1/c4.jpg" alt="c4"></a>
 
                         <div class="block-top-categori-title">TV 4k</div>
 
@@ -132,7 +132,7 @@
 
                     <div class="block-top-categori-item">
 
-                        <a href="#"><img src="assets/images/home1/c5.jpg" alt="c5"></a>
+                        <a href="#"><img src="frontend/assets/images/home1/c5.jpg" alt="c5"></a>
 
                         <div class="block-top-categori-title">Wireless Speaker</div>
 
@@ -154,7 +154,7 @@
 
                         <div class="promotion-banner style-5">
 
-                            <a href="#" class="banner-img"><img src="assets/images/home1/banner3.jpg" alt="banner3"></a>
+                            <a href="#" class="banner-img"><img src="frontend/assets/images/home1/banner3.jpg" alt="banner3"></a>
 
                         </div>
 
@@ -164,7 +164,7 @@
 
                         <div class="promotion-banner style-5">
 
-                            <a href="#" class="banner-img"><img src="assets/images/home1/banner4.jpg" alt="banner4"></a>
+                            <a href="#" class="banner-img"><img src="frontend/assets/images/home1/banner4.jpg" alt="banner4"></a>
 
                         </div>
 
@@ -213,7 +213,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f1.jpg" alt="f1"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f1.jpg" alt="f1"></a>
 
                                                     </div>
 
@@ -273,7 +273,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f6.jpg" alt="f6"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f6.jpg" alt="f6"></a>
 
                                                     </div>
 
@@ -339,7 +339,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f2.jpg" alt="f2"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f2.jpg" alt="f2"></a>
 
                                                     </div>
 
@@ -401,7 +401,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f7.jpg" alt="f7"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f7.jpg" alt="f7"></a>
 
                                                     </div>
 
@@ -469,7 +469,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f3.jpg" alt="f3"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f3.jpg" alt="f3"></a>
 
                                                     </div>
 
@@ -533,7 +533,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f8.jpg" alt="f8"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f8.jpg" alt="f8"></a>
 
                                                     </div>
 
@@ -599,7 +599,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f4.jpg" alt="f4"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f4.jpg" alt="f4"></a>
 
                                                     </div>
 
@@ -643,7 +643,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f9.jpg" alt="f9"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f9.jpg" alt="f9"></a>
 
                                                     </div>
 
@@ -695,7 +695,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f5.jpg" alt="f5"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f5.jpg" alt="f5"></a>
 
                                                     </div>
 
@@ -759,7 +759,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f10.jpg" alt="f10"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f10.jpg" alt="f10"></a>
 
                                                     </div>
 
@@ -833,7 +833,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f1.jpg" alt="f1"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f1.jpg" alt="f1"></a>
 
                                                     </div>
 
@@ -893,7 +893,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f6.jpg" alt="f6"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f6.jpg" alt="f6"></a>
 
                                                     </div>
 
@@ -959,7 +959,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f2.jpg" alt="f2"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f2.jpg" alt="f2"></a>
 
                                                     </div>
 
@@ -1021,7 +1021,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f7.jpg" alt="f7"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f7.jpg" alt="f7"></a>
 
                                                     </div>
 
@@ -1089,7 +1089,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f3.jpg" alt="f3"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f3.jpg" alt="f3"></a>
 
                                                     </div>
 
@@ -1153,7 +1153,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f8.jpg" alt="f8"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f8.jpg" alt="f8"></a>
 
                                                     </div>
 
@@ -1219,7 +1219,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f4.jpg" alt="f4"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f4.jpg" alt="f4"></a>
 
                                                     </div>
 
@@ -1263,7 +1263,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f9.jpg" alt="f9"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f9.jpg" alt="f9"></a>
 
                                                     </div>
 
@@ -1315,7 +1315,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f5.jpg" alt="f5"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f5.jpg" alt="f5"></a>
 
                                                     </div>
 
@@ -1379,7 +1379,7 @@
 
                                                     <div class="thumb-inner">
 
-                                                        <a href="#"><img src="assets/images/home1/f10.jpg" alt="f10"></a>
+                                                        <a href="#"><img src="frontend/assets/images/home1/f10.jpg" alt="f10"></a>
 
                                                     </div>
 
@@ -1466,7 +1466,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/s1.jpg" alt="s1"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/s1.jpg" alt="s1"></a>
 
                                 </div>
 
@@ -1528,7 +1528,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/s2.jpg" alt="s2"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/s2.jpg" alt="s2"></a>
 
                                 </div>
 
@@ -1590,7 +1590,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/s3.jpg" alt="s3"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/s3.jpg" alt="s3"></a>
 
                                 </div>
 
@@ -1652,7 +1652,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/s4.jpg" alt="s4"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/s4.jpg" alt="s4"></a>
 
                                 </div>
 
@@ -1712,7 +1712,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r1.jpg" alt="r1"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r1.jpg" alt="r1"></a>
 
                                 </div>
 
@@ -1774,7 +1774,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r2.jpg" alt="r2"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r2.jpg" alt="r2"></a>
 
                                 </div>
 
@@ -1834,7 +1834,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r3.jpg" alt="r3"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r3.jpg" alt="r3"></a>
 
                                 </div>
 
@@ -1892,7 +1892,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r4.jpg" alt="r4"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r4.jpg" alt="r4"></a>
 
                                 </div>
 
@@ -1948,7 +1948,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r5.jpg" alt="r5"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r5.jpg" alt="r5"></a>
 
                                 </div>
 
@@ -2010,7 +2010,7 @@
 
                                 <div class="thumb-inner">
 
-                                    <a href="#"><img src="assets/images/home1/r6.jpg" alt="r6"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r6.jpg" alt="r6"></a>
 
                                 </div>
 
@@ -2076,7 +2076,7 @@
 
                         <div class="post-thumb">
 
-                            <a href="#"><img src="assets/images/home1/blog1.jpg" alt="blog1"></a>
+                            <a href="#"><img src="frontend/assets/images/home1/blog1.jpg" alt="blog1"></a>
 
                             <span class="date">2019<span>Jan 06</span></span>
 
@@ -2103,7 +2103,7 @@
 
                         <div class="post-thumb">
 
-                            <a href="#"><img src="assets/images/home1/blog2.jpg" alt="blog2"></a>
+                            <a href="#"><img src="frontend/assets/images/home1/blog2.jpg" alt="blog2"></a>
 
                             <span class="date">2019<span>Jan 06</span></span>
 
@@ -2130,7 +2130,7 @@
 
                         <div class="post-thumb">
 
-                            <a href="#"><img src="assets/images/home1/blog3.jpg" alt="blog3"></a>
+                            <a href="#"><img src="frontend/assets/images/home1/blog3.jpg" alt="blog3"></a>
 
                             <span class="date">2019<span>Jan 06</span></span>
 
@@ -2163,12 +2163,12 @@
             <div class="container">
                 <div class="section-brand style1">
                     <div class="owl-carousel nav-style3" data-nav="true" data-autoplay="false" data-dots="false" data-loop="true" data-margin="2" data-responsive='{"0":{"items":1},"320":{"items":2},"480":{"items":3},"768":{"items":4},"992":{"items":5},"1200":{"items":5}}'>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
                     </div>
                 </div>
             </div>

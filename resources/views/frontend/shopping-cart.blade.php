@@ -27,7 +27,7 @@
                                 </thead>
                                 <tbody>
                                 <tr>
-                                    <td class="tb-image"><a href="#" class="item-photo"><img src="assets/images/cart1.jpg"
+                                    <td class="tb-image"><a href="#" class="item-photo"><img src="frontend/assets/images/cart1.jpg"
                                                                                              alt="cart"></a></td>
                                     <td class="tb-product">
                                         <div class="product-name"><a href="#">Smartphone MTK6737 Quad Core.</a></div>
@@ -54,7 +54,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="tb-image"><a href="#" class="item-photo"><img src="assets/images/cart2.jpg"
+                                    <td class="tb-image"><a href="#" class="item-photo"><img src="frontend/assets/images/cart2.jpg"
                                                                                              alt="cart"></a>
                                     <td class="tb-product">
                                         <div class="product-name"><a href="#">Acer's Aspire S7 is a thin and portable
@@ -126,7 +126,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r1.jpg" alt="r1"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r1.jpg" alt="r1"></a>
                                 </div>
                                 <span class="onsale">-50%</span>
                                 <a href="#" class="quick-view">Quick View</a>
@@ -167,7 +167,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r2.jpg" alt="r2"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r2.jpg" alt="r2"></a>
                                 </div>
                                 <span class="onnew">new</span>
                                 <a href="#" class="quick-view">Quick View</a>
@@ -206,7 +206,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r3.jpg" alt="r3"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r3.jpg" alt="r3"></a>
                                 </div>
                                 <a href="#" class="quick-view">Quick View</a>
                             </div>
@@ -244,7 +244,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r4.jpg" alt="r4"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r4.jpg" alt="r4"></a>
                                 </div>
                                 <a href="#" class="quick-view">Quick View</a>
                             </div>
@@ -267,7 +267,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r5.jpg" alt="r5"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r5.jpg" alt="r5"></a>
                                 </div>
                                 <span class="onsale">-50%</span>
                                 <a href="#" class="quick-view">Quick View</a>
@@ -308,7 +308,7 @@
                         <div class="product-inner equal-elem">
                             <div class="product-thumb">
                                 <div class="thumb-inner">
-                                    <a href="#"><img src="assets/images/home1/r6.jpg" alt="r6"></a>
+                                    <a href="#"><img src="frontend/assets/images/home1/r6.jpg" alt="r6"></a>
                                 </div>
                                 <a href="#" class="quick-view">Quick View</a>
                             </div>
@@ -336,12 +336,12 @@
                     <div class="owl-carousel nav-style3" data-nav="true" data-autoplay="false" data-dots="false"
                          data-loop="true" data-margin="2"
                          data-responsive='{"0":{"items":1},"480":{"items":2},"600":{"items":4},"1000":{"items":6}}'>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
-                        <a href="#" class="item-brand"><img src="assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
+                        <a href="#" class="item-brand"><img src="frontend/assets/images/brand1.jpg" alt="brand1"></a>
                     </div>
                 </div>
             </div>
